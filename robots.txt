@@ -5,10 +5,10 @@ User-agent: Bingbot
 Allow: /
 
 User-agent: DuckDuckBot
-Disallow: /
+Allow: /
 
 User-agent: archive.org_bot
-Disallow: /
+Allow: /
 
 User-agent: *
 Disallow: /
